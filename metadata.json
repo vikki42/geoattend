@@ -1,0 +1,5 @@
+{
+  "name": "GeoAttend",
+  "description": "A location-aware attendance tracking system with real-time check-ins and history.",
+  "requestFramePermissions": ["geolocation"]
+}
